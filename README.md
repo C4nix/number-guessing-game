@@ -1,4 +1,6 @@
 ![Languages](https://img.shields.io/github/languages/top/C4nix/number-guessing-game)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 
 # 🎲 Number Guessing Game 🎯  
 
