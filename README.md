@@ -1,3 +1,4 @@
+![Languages](https://img.shields.io/github/languages/top/C4nix/number-guessing-game)
 
 # 🎲 Number Guessing Game 🎯  
 
